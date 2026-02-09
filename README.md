@@ -1,4 +1,3 @@
-# terraform-local-iac
 # Terraform Local Infrastructure (Docker + Nginx + Redis)
 
 ## 📌 Project Overview
